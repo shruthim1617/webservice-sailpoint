@@ -1,0 +1,39 @@
+{
+  "entitlement_memberships": [
+    {
+      "entitlement_id": "E001",
+      "members": [
+        {
+          "user_id": "U001",
+          "name": "Alice Johnson"
+        },
+        {
+          "user_id": "U002",
+          "name": "Bob Smith"
+        }
+      ]
+    },
+    {
+      "entitlement_id": "E002",
+      "members": [
+        {
+          "user_id": "U003",
+          "name": "Carol White"
+        }
+      ]
+    },
+    {
+      "entitlement_id": "E003",
+      "members": [
+        {
+          "user_id": "U002",
+          "name": "Bob Smith"
+        },
+        {
+          "user_id": "U003",
+          "name": "Carol White"
+        }
+      ]
+    }
+  ]
+}
