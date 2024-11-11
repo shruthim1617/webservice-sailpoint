@@ -1,0 +1,13 @@
+{
+    "entitlement_id": "E003",
+    "members": [
+        {
+            "user_id": "U001",
+            "name": "Alice Johnson"
+        },
+        {
+            "user_id": "U002",
+            "name": "Bob Smith"
+        }
+    ]
+}
