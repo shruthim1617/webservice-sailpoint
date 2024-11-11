@@ -1,0 +1,22 @@
+{
+  "entitlements": [
+    {
+      "entitlement_id": "E001",
+      "name": "Finance Department Access",
+      "description": "Access to Finance department resources",
+      "application": "HR-Employees"
+    },
+    {
+      "entitlement_id": "E002",
+      "name": "IT Department Access",
+      "description": "Access to IT department resources",
+      "application": "IT-Employees"
+    },
+    {
+      "entitlement_id": "E003",
+      "name": "Marketing Department Access",
+      "description": "Access to Marketing department resources",
+      "application": "Marketing-Portal"
+    }
+  ]
+}
