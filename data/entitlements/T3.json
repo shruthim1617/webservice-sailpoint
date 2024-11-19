@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+     "user_id": "T3",
+      "id": "T3",
+      "firstname": "Carol",
+      "lastname": "White",
+      "email": "carol.white1@example.com",
+      "role": "Analyst"
+    }
+  ]
+}
