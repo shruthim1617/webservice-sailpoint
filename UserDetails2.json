@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "user_id": "T1",
+      "id":"T4",
+      "name": "Alice Johnson_1",
+      "email": "alice.johnson1@example.com",
+      "role": "Manager"
+    },
+    {
+      "user_id": "T2",
+      "id":"T5",
+      "name": "Bob Smith_1",
+      "email": "bob.smith1@example.com",
+      "role": "Engineer"
+    },
+    {
+      "user_id": "T3",
+      "id":"T6",
+      "name": "Carol White_1",
+      "email": "carol.white1@example.com",
+      "role": "Analyst"
+    }
+  ]
+}
